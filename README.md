@@ -1,5 +1,5 @@
 # TechChallenge4
-Projeto com .NET 6 e RabbitMQ
+Projeto com .NET 6 e RabbitMQ. Utilizando MySql para base de dados
 ![image](https://github.com/lucoliveira94/TechChallenge4/assets/85816442/f02e72ca-aa92-441d-8f54-c50f191ee5f0)
 
 Nesse projeto foi criado uma WebAPI que é responsável pelo cadastro de produtos no estoque, após o cadastro é enviado uma mensagem para uma fila.
